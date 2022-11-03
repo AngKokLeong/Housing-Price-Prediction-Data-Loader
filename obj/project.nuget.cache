@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "GUh3KVD5G/IPfGEwK4o/FlOelalgY0goBg78kJfSwTgPBjkI6QfNY2nwN1KpZIwaR73/3q7v36xXBo0NOEqBhQ==",
+  "success": true,
+  "projectFilePath": "/Users/angkokleong/Desktop/DataScienceProjectDataLoader/DataScienceProjectDataLoader.csproj",
+  "expectedPackageFiles": [
+    "/Users/angkokleong/.nuget/packages/google.api.gax/4.0.0/google.api.gax.4.0.0.nupkg.sha512",
+    "/Users/angkokleong/.nuget/packages/google.api.gax.rest/4.0.0/google.api.gax.rest.4.0.0.nupkg.sha512",
+    "/Users/angkokleong/.nuget/packages/google.apis/1.57.0/google.apis.1.57.0.nupkg.sha512",
+    "/Users/angkokleong/.nuget/packages/google.apis.auth/1.57.0/google.apis.auth.1.57.0.nupkg.sha512",
+    "/Users/angkokleong/.nuget/packages/google.apis.bigquery.v2/1.57.0.2718/google.apis.bigquery.v2.1.57.0.2718.nupkg.sha512",
+    "/Users/angkokleong/.nuget/packages/google.apis.core/1.57.0/google.apis.core.1.57.0.nupkg.sha512",
+    "/Users/angkokleong/.nuget/packages/google.apis.storage.v1/1.57.0.2742/google.apis.storage.v1.1.57.0.2742.nupkg.sha512",
+    "/Users/angkokleong/.nuget/packages/google.cloud.bigquery.v2/3.1.0/google.cloud.bigquery.v2.3.1.0.nupkg.sha512",
+    "/Users/angkokleong/.nuget/packages/google.cloud.storage.v1/4.1.0/google.cloud.storage.v1.4.1.0.nupkg.sha512",
+    "/Users/angkokleong/.nuget/packages/microsoft.bcl.asyncinterfaces/6.0.0/microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
+    "/Users/angkokleong/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "/Users/angkokleong/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
